@@ -1,0 +1,1 @@
+export {GroceryItemType} from './GroceryItem';

@@ -13,6 +13,7 @@ module.exports = {
     rules: {
         'global-require': 0,
         'react/no-unescaped-entities': 0,
+        'import/no-cycle': 0,
         'import/prefer-default-export': 0,
         'no-param-reassign': 0,
         'react/jsx-props-no-spreading': 0,

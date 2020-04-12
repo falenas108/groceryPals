@@ -9,6 +9,7 @@ export default (props: InputProps) => {
         <Input
             inputContainerStyle={styles.formContainer}
             inputStyle={styles.text}
+            testID="searchBar"
             {...props}
         />
     );
